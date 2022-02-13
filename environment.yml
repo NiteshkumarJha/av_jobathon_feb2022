@@ -1,4 +1,4 @@
-name: av-hackathon-2022
+name: av-jobathon-2022
 dependencies:
   - python=3.9
   - pip
